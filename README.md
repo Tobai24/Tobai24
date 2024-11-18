@@ -15,9 +15,9 @@ Let’s innovate, educate, and have some fun along the way! 🎉🚀
 - ⚡ Fun fact: I’m powered by curiosity, fueled by coffee, and obsessed with turning ideas into reality! ☕💡
 
 # Stats 📊
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobai24&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&line_height=35" alt="Tobi's GitHub stats" style="height: 250px; object-fit: contain;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobai24&layout=compact" alt="Top Languages" style="height: 250px; object-fit: contain;">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tobai24&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&line_height=35" alt="Tobi's GitHub stats" style="height: 250px; object-fit: contain; width: 40%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobai24&layout=compact" alt="Top Languages" style="height: 250px; object-fit: contain; width:40%;">
 </div>
 
 
