@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ga+Maamli&weight=300&size=30&pause=500&color=F786A2&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Tobi;ML+Engineer+%F0%9F%99%8E%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F;Medical+Student+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%E2%9A%95%EF%B8%8F)](https://git.io/typing-svg)
 
-**`Tobi(Medical student/Machine learning engineer)`**
 
 Hey there! 👋 I'm a final-year medical student 🩺 with a passion for blending healthcare and tech 🤖, especially in nuclear medicine imaging and AI. 💡 When I'm not exploring radiomics 🔬 or advancing patient care 🏥, you’ll catch me sharing my love for learning as a volunteer tutor 📚 or crafting engaging content to make complex topics super simple! 🎨✨  
 
