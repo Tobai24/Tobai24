@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=50&pause=1000&color=F7F7F7&background=FF164500&center=true&vCenter=true&width=1000&height=150&lines=MD;Nuclear+Medicine+%26+AI;AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=50&pause=1000&color=707070&center=true&vCenter=true&width=1000&height=150&lines=Medical+Doctor;Nuclear+medicine+%26+AI;AI+Engineer)](https://git.io/typing-svg)
 
 
 * 👀 I’m interested in nuclear medicine imaging and artificial intelligence.
